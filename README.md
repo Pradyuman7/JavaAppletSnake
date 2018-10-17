@@ -5,4 +5,4 @@ As a believer of **"keep it simple"** I made this Java applet to revise my conce
 
 ![Applet Look](https://user-images.githubusercontent.com/41565823/47063504-8c7f5c00-d1db-11e8-99db-5ee44d6b453a.png)
 
-This was a fun, trifle project to do when you have nothing better to code at the moment and you realize that you have OOP Concepts in Java as a part of your course, and you didn't study it once.
+This was a fun, trifle project to do when you have nothing better to code at the moment and you realize that you have OOP Concepts in Java as a part of your course, and you didn't study it once, because you were busy with Assembly x86 and cramming stuff you don't like in CO.
